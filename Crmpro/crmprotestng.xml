@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CrmproSuite">
+  <test thread-count="5" name="Sprimt1">
+    <classes>
+      <class name="crmpro.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Sprimt1 -->
+</suite> <!-- CrmproSuite -->
